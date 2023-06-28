@@ -10,6 +10,8 @@ This app is made in MVVM architechture.
 ## Demo Video
 [Watch Demo Video](https://drive.google.com/drive/folders/193OmU169OdkotkutM8A68vayQ5t1EAZ5?usp=sharing)
 
+## APK File
+[Download APK](https://drive.google.com/file/d/1pKmcZznmhIbcH0XcrMa1A3qX__4hStDy/view?usp=sharing)
 
 
 
