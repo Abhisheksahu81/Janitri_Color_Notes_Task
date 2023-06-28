@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "263930443384",
+    "project_id": "janitritask",
+    "storage_bucket": "janitritask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263930443384:android:093cba62ab3f9f60839f8d",
+        "android_client_info": {
+          "package_name": "com.example.janitri_color_notes_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263930443384-lorr0uvt62httmh1f4g1vsofel7qi77e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVh51ijFGIqABZLMjouzw-1_bUB85Q3vA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263930443384-lorr0uvt62httmh1f4g1vsofel7qi77e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
